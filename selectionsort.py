@@ -10,7 +10,7 @@ def selection_sort(array):
     return array
 
 
-number_list = [0, 6, 4, -8, 5, 1, -7, 9, 3, -2]
+number_list = [0, 6, 4, -8, 5, 1, -7, 9, 3, -2, 10]
 print("Original List: ", number_list)
 
 sorted_list = selection_sort(number_list)
