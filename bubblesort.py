@@ -7,7 +7,7 @@ def bubble_sort(array):
     return array
 
 
-number_list = [7, 3, 8, 2, 0, 4, 1, 6, 9, 5]
+number_list = [7, 3, 8, 2, 0, 4, 1, 6, 9, 5, -1]
 print("Original List: ", number_list)
 
 sorted_list = bubble_sort(number_list)
